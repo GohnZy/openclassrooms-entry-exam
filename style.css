@@ -1,0 +1,35 @@
+h1 {
+    /* Petit commentaire des familles ça mange pas de pain ! */
+    color: #A5B4FC;
+    font-size: 3.5em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+p {
+    color : purple;
+    font-size: 1.1em;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 300;
+}
+
+a{
+    font-size: 1em;
+    font-family: 'Manrope' ,sans-serif;
+    text-decoration: none;
+}
+
+ul {
+    font-size: 1em;
+    font-family: 'Manrope' ,sans-serif;
+    font-weight: 300;
+}
+
+em {
+    font-style: normal;
+    color: #A5B4FC;
+}
+
+a {
+    color : black
+}
