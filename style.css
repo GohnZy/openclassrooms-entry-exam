@@ -1,3 +1,7 @@
+body {
+    background-color: #1F2039;
+}
+
 h1 {
     /* Petit commentaire des familles ça mange pas de pain ! */
     color: #A5B4FC;
@@ -32,4 +36,13 @@ em {
 
 a {
     color : black
+}
+
+.links {
+    background-color: white;
+}
+
+.body {
+        
+    color: #F9F8FF;
 }
