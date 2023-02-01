@@ -1,7 +1,15 @@
+*{
+  margin: 0;
+}
+
 body {
     font-family: 'Manrope', sans-serif;
     font-size: 1em;
     background-color: #1f2039;
+  }
+
+  section {
+    padding: 80px;
   }
   
   a {
@@ -23,6 +31,10 @@ body {
   h2 {
     color: #f9f8ff;
   }
+
+  #services {
+    margin: 20px 0 10px 0;
+  }
   
   p,
   li {
@@ -34,6 +46,7 @@ body {
     background-color: white;
     font-family: 'Manrope', sans-serif;
     font-size: 1em;
+    padding: 20px 50px 20px 50px;
   }
   
   .cta {
@@ -58,5 +71,18 @@ body {
   .carre-contenu {
     border-right: 1px solid #8e86b5;
     border-bottom: 1px solid #8e86b5;
+    padding: 50px;
+  }
+
+  .conteneur {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  #apropos {
+    margin: auto;
   }
 
